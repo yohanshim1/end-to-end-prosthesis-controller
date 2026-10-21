@@ -1,0 +1,29 @@
+metadata_version: 1
+name: End-to-End Control of a Powered Knee-Ankle Prosthesis Towards Unified, Tuning-Free Assistance
+description: This package includes Python code to implement the temporal convolutional
+  network (TCN) and the pre-trained torque and trajectory estimators used in "End-to-End
+  Control of a Powered Knee-Ankle Prosthesis Towards Unified, Tuning-Free Assistance"
+  by John Shim, Christoph P. O. Nuesslein, Sixu Zhou, Hanjun Kim, Kinsey Herrin, and
+  Aaron J. Young.
+authors:
+- name: John Shim
+  affiliations:
+  - name: Georgia Institute of Technology
+- name: Christoph P. O. Nuesslein
+  affiliations:
+  - name: Georgia Institute of Technology
+- name: Sixu Zhou
+  affiliations:
+  - name: Georgia Institute of Technology
+- name: Hanjun Kim
+  affiliations:
+  - name: Georgia Institute of Technology
+- name: Kinsey Herrin
+  affiliations:
+  - name: Georgia Institute of Technology
+- name: Aaron J. Young
+  affiliations:
+  - name: Georgia Institute of Technology
+corresponding_contributor:
+  name: John Shim
+  email: jshim77@gatech.edu
